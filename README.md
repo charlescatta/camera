@@ -8,3 +8,4 @@ A useful iOS camera app which lets you lock focus and exposure. Currently WIP
 - [ ] Start app with flashlight off
 - [ ] Design a better UI
 - [ ] Add CI
+- [ ] Use Gitflow workflow in repo
